@@ -31,9 +31,9 @@ I've built everything from full-stack web apps (React, Node, Spring Boot) to mac
 
 ## 💡 What Drives Me
 
-I get a rush from **building things from scratch** and watching them evolve into something that actually works. Spent nights debugging Lambda functions and redesigning schemas not because I had to, but because **solving hard problems is genuinely fun** for me.
+I get a adrenaline rush from **building things from scratch** and watching them evolve into something that actually works. Spent nights debugging Lambda functions and redesigning schemas not because I had to, but because **solving hard problems is genuinely fun** for me.
 
-I'm not interested in just pushing tickets,I want to understand the **why** behind what we're building. Give me a whiteboard, a complex problem, and some coffee, and I'll lose track of time.
+I'm not interested in just pushing commits,I want to understand the **why** behind what we're building. Give me a whiteboard, a complex problem, and some coffee, and I'll lose track of time.
 
 Honestly, I just love the craft of it. The satisfaction of writing code that's not just functional, but clean and elegant.
 
